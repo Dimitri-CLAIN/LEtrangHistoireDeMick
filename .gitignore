@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Packages
+Content/Characters
+Content/HorrorHospitalPack
+
+# Zip files
+**.zip
+**.DS_Store
