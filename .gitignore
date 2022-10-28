@@ -74,8 +74,13 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Packages
-Content/Characters
-Content/HorrorHospitalPack
+Media/
+Audio/
+Meshes/
+Textures/
+Packages/
+Movies/
+
 
 # Zip files
 **.zip

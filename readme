@@ -4,7 +4,8 @@ Unreal engine project
 
 ## Installation
 ### Packages used
-Download and unzip these packages in Content folder
+Media/, Audio/, Meshes/, Textures/, Packages/ and Movies/ are ignore.
+You have to add these files from:
 
 [Horror hospital](https://epitechfr-my.sharepoint.com/personal/leo_menard_epitech_eu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleo%5Fmenard%5Fepitech%5Feu%2FDocuments%2FPartage%2FHorrorHospitalPack%2Ezip&parent=%2Fpersonal%2Fleo%5Fmenard%5Fepitech%5Feu%2FDocuments%2FPartage&ga=1)
 [Horror engine](https://www.unrealengine.com/marketplace/en-US/product/horror-engine)
